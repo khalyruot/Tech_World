@@ -1,1 +1,6 @@
-export const homePage = "Hello World!"
+import "./styles.css";
+
+
+console.log(greeting);
+
+export const homePage = "Hello World!";
