@@ -1,3 +1,1 @@
-export function homePage(){
-    console.log("Hello World!")
-}
+export const homePage = "Hello World!"
